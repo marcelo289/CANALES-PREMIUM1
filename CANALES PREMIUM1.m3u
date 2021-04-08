@@ -1,0 +1,163 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="a24.ar" tvg-name="TV ARGENTINA PREMIUM | A24" tvg-logo="http://54.39.128.48/img/16.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | A24
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/14082
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="TV ARGENTINA PREMIUM | America TV" tvg-logo="http://54.39.128.48/img/17.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | America TV
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12641
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="TV ARGENTINA PREMIUM | C5N" tvg-logo="http://54.39.128.48/img/18.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | C5N
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4191
+#EXTINF:-1 tvg-id="26tv.ar" tvg-name="TV ARGENTINA PREMIUM | Canal 26 HD" tvg-logo="http://54.39.128.48/img/19.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 26 HD
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12291
+#EXTINF:-1 tvg-id="cronicatv.ar" tvg-name="TV ARGENTINA PREMIUM | Cronica TV" tvg-logo="http://54.39.128.48/img/21.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Cronica TV
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12658
+#EXTINF:-1 tvg-id="deportv.ar" tvg-name="TV ARGENTINA PREMIUM | DeporTV" tvg-logo="http://54.39.128.48/img/22.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | DeporTV
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/6683
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="TV ARGENTINA PREMIUM | El Nueve" tvg-logo="http://54.39.128.48/img/24.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | El Nueve
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12622
+#EXTINF:-1 tvg-id="eltrece.ar" tvg-name="TV ARGENTINA PREMIUM | El Trece 13" tvg-logo="http://54.39.128.48/img/25.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | El Trece 13
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12650
+#EXTINF:-1 tvg-id="lnplus.ar" tvg-name="TV ARGENTINA PREMIUM | LN+" tvg-logo="http://54.39.128.48/img/26.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | LN+
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/14004
+#EXTINF:-1 tvg-id="tecnopolistv.ar" tvg-name="TV ARGENTINA PREMIUM | TEC TV" tvg-logo="http://54.39.128.48/img/38.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | TEC TV
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/18293
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="TV ARGENTINA PREMIUM | Telefe" tvg-logo="http://54.39.128.48/img/27.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Telefe
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12637
+#EXTINF:-1 tvg-id="tn.ar" tvg-name="TV ARGENTINA PREMIUM | TN Todo Noticias" tvg-logo="http://54.39.128.48/img/28.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | TN Todo Noticias
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12638
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="TV ARGENTINA PREMIUM | TV Publica" tvg-logo="http://54.39.128.48/img/29.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | TV Publica
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12623
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Volver" tvg-logo="https://antenaslatinas.com/wp-content/uploads/Logos/Canal-Volver.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Volver
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/32975
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | TNT Sports SD" tvg-logo="http://54.39.128.48/img/66.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | TNT Sports SD
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/36670
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Fox Sport Premium SD" tvg-logo="http://54.39.128.48/img/51.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Fox Sport Premium SD
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/36671
+#EXTINF:-1 tvg-id="tntsport.ar" tvg-name="TV ARGENTINA PREMIUM | TNT Sports HD" tvg-logo="http://54.39.128.48/img/66.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | TNT Sports HD
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/19496
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="TV ARGENTINA PREMIUM | Fox Sports TV ARGENTINA PREMIUM" tvg-logo="http://54.39.128.48/img/52.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Fox Sports TV ARGENTINA PREMIUM
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/20575
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Directv Sports (TV ARGENTINA PREMIUM)" tvg-logo="" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Directv Sports (TV ARGENTINA PREMIUM)
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39938
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Directv Sport 2" tvg-logo="" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Directv Sport 2
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39937
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Directv Sport Plus" tvg-logo="" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Directv Sport Plus
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39936
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Directv Sport" tvg-logo="" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Directv Sport
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39935
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="TV ARGENTINA PREMIUM | ESPN (TV ARGENTINA PREMIUM)" tvg-logo="http://54.39.128.48/img/47.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | ESPN (TV ARGENTINA PREMIUM)
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12047
+#EXTINF:-1 tvg-id="foxsportsprem.ar" tvg-name="TV ARGENTINA PREMIUM | Fox Sport Premium HD" tvg-logo="http://54.39.128.48/img/51.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Fox Sport Premium HD
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12671
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="TV ARGENTINA PREMIUM | Fox Sports 2 TV ARGENTINA PREMIUM" tvg-logo="http://54.39.128.48/img/53.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Fox Sports 2 TV ARGENTINA PREMIUM
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/20576
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM |  Sistema Municipal de Medios" tvg-logo="" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM |  Sistema Municipal de Medios
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39942
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal Rural" tvg-logo="" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal Rural
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39932
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 11 Entre Ríos" tvg-logo="" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 11 Entre Ríos
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39931
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 7 Jujuy" tvg-logo="" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 7 Jujuy
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39929
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 10 Cordoba" tvg-logo="" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 10 Cordoba
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39867
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 9 Norte Eldorado Misionero" tvg-logo="" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 9 Norte Eldorado Misionero
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39859
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 8 Tucuman" tvg-logo="" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 8 Tucuman
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39852
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 9 Rio Gallegos" tvg-logo="https://www.riogallegos.gov.ar/rgl/mirecibo/img/G.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 9 Rio Gallegos
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39705
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Argentinisima Satelital" tvg-logo="https://logostvTV ARGENTINA PREMIUM.files.wordpress.com/2008/11/cd893-arg-sat.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Argentinisima Satelital
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39502
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 2 Mar del Plata" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-2-Mar-de-Plata.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 2 Mar del Plata
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39449
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 79 Mar del Plata " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-79-Mar-de-Plata.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 79 Mar del Plata 
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39448
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 10 Mar del Plata" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 10 Mar del Plata
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39447
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 5 Telesol San Juan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Canal_5_Telesol_San_Juan.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 5 Telesol San Juan
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39262
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Acequia TV Mendoza" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Acequia-TV-en-vivo-Online.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Acequia TV Mendoza
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4026
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Aire de Santa Fe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/aire-de-santa-fe.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Aire de Santa Fe
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4305
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | America Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/1280px-Logo_AM-sports-2019.svg.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | America Sports
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/14054
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | BungeLibertador Pinamar Buenos Aires" tvg-logo="https://www.mercosur.com/media/filer_public_thumbnails/filer_public/7e/c3/7ec3cb4b-66ab-4044-b401-ccc38fd4db07/bunge.png__374x305_q85_subsampling-2_upscale.png" group-title=
+"TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | BungeLibertador Pinamar Buenos Aires
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4116
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 10 Entre Rios" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Entre-Rios.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 10 Entre Rios
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4164
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 10 Tele Diez Corrientes" tvg-logo="http://192.99.21.71/img/telediez.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 10 Tele Diez Corrientes
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4159
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 10 TV Rio Negro" tvg-logo="https://logostvTV ARGENTINA PREMIUM.files.wordpress.com/2009/05/f704c-canal10tv_rionegrina.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 10 TV Rio Negro
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4338
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 13 Rio Cuarto HD" tvg-logo="https://i1.wp.com/www.ata.org.ar/wordpress/wp-content/uploads/logosMapa/Canal13deRioCuarto.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 13 Rio Cuarto HD
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4004
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 4 Jujuy" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 4 Jujuy
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12295
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 4 La Matanza" tvg-logo="https://i.imgur.com/JqIPc.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 4 La Matanza
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/3968
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 4 Posadas" tvg-logo="https://3.bp.blogspot.com/--LWP2IqfJz0/WvMMjRwM5iI/AAAAAAAAhNk/FcXygo8Uk1kqkPr1HITAolJzau-Yd5pAwCK4BGAYYCw/s1600/LOGO%2BCANAL_00005.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 4 Posadas
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4303
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 4 San Juan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Channel_4_logo_%28San_Juan%2C_TV ARGENTINA PREMIUM%29_.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 4 San Juan
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4041
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 6 Digital Posadas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/C6Digital.png/245px-C6Digital.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 6 Digital Posadas
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4031
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 8 San Juan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canal_8_san_juan_logo_in_2018.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 8 San Juan
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/13345
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 8 Tunuyan" tvg-logo="https://pbs.twimg.com/profile_images/2751264928/0facb64f7c7468a07681c5f27874d9a4.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 8 Tunuyan
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4025
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 9" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 9
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/6680
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 9 Comodoro Rivadavia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Canal_9_Comodoro_Rivadavia_%28Logo_1994%29.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 9 Comodoro Rivadavia
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4011
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 9 Salta" tvg-logo="https://logostvTV ARGENTINA PREMIUM.files.wordpress.com/2009/08/9762c-canal9salta.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 9 Salta
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4038
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal 9 Santa Cruz" tvg-logo="https://logostvTV ARGENTINA PREMIUM.files.wordpress.com/2009/05/387d3-canal9-santacruz.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal 9 Santa Cruz
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4190
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal Coop Jesus Maria" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canalcoop.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal Coop Jesus Maria
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4007
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal Verte Olavarria" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal-local.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal Verte Olavarria
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4346
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Canal Provincial San Miguel" tvg-logo="https://i.imgur.com/TpRgjdj.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Canal Provincial San Miguel
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4332
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | CEEL Eldorado Misiones" tvg-logo="https://www.canal4eldorado.com/wp-content/uploads/2016/10/logoCEEL.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | CEEL Eldorado Misiones
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4178
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Chaco TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/ChacoTV.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Chaco TV
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4010
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Ciudad Magazine" tvg-logo="http://54.39.128.48/img/39.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Ciudad Magazine
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/18799
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | El 10 Salta" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-10-TV-salta.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | El 10 Salta
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4353
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | El 12 Cordoba" tvg-logo="http://54.39.128.48/img/30.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | El 12 Cordoba
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/18773
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | El 12 Misiones" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Misiones-en-vivo-Online.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | El 12 Misiones
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/14083
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Fenix 11 La Rioja TV" tvg-logo="https://www.pngitem.com/pimgs/m/495-4951912_fenix-logo-1-fenix-lighting-for-extremes-hd.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Fenix 11 La Rioja TV
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4173
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | LTV+ Santa Fe" tvg-logo="https://ltv.hn/wp-content/uploads/2020/02/logo-ltv-1.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | LTV+ Santa Fe
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4205
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Misiones Cuatro" tvg-logo="https://misionescuatro.com/wp-content/uploads/2019/07/m4logo.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Misiones Cuatro
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4030
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | NET TV" tvg-logo="http://54.39.128.48/img/40.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | NET TV
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/18800
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | TDC Online" tvg-logo="https://i.imgur.com/9CR5FLb.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | TDC Online
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4304
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Telefe Santa Fe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Telefe Santa Fe
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/18797
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Telemax" tvg-logo="http://54.39.128.48/img/36.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Telemax
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/6788
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Television Rionegrina" tvg-logo="https://appnew.megainfoapp.com/files/1/Canal-10-Rio-Negro.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Television Rionegrina
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12393
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | TUM Television Universitaria de Misiones" tvg-logo="https://transmedia.unam.edu.ar/templates/yootheme/cache/promo-tum-wide-c52b16b3.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | TUM Television Universitaria de Misiones
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4267
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | XFN Canal 41 Mar del Plata" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/XFN.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | XFN Canal 41 Mar del Plata
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/4368
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | PlayBoy" tvg-logo="http://54.39.128.48/img/166.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | PlayBoy
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12660
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Private TV" tvg-logo="http://54.39.128.48/img/166.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Private TV
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/20622
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Erox HD" tvg-logo="http://54.39.128.48/img/166.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Erox HD
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/20637
+#EXTINF:-1 tvg-id="" tvg-name="TV ARGENTINA PREMIUM | Venus" tvg-logo="http://54.39.128.48/img/166.png" group-title="TV ARGENTINA PREMIUM",TV ARGENTINA PREMIUM | Venus
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12663
